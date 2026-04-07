@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: simple-react-app
-          image: naveennk15/teach-react-app:9d001e6e
+          image: naveennk15/teach-react-app:3bbbccc5
           ports:
             - containerPort: 80
           resources:
